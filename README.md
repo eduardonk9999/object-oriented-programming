@@ -11,3 +11,8 @@ Ex:
  Classe -> Celular
  Atributos -> tamanhoDaTela
  Ações -> ligar()
+
+
+Celular => Conceitos básicos
+Personagem => Conceitos métodos
+Moves => Criacao de Pacotes
