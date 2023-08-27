@@ -16,3 +16,5 @@ Ex:
 Celular => Conceitos básicos
 Personagem => Conceitos métodos
 Moves => Criacao de Pacotes
+Festa => Visibilidade de atributos e Métodos (Privat, Public)
+
