@@ -17,6 +17,6 @@
 <p>Personagem => Conceitos métodos</p>
 <p>Moves => Criacao de Pacotes</p>
 <p>Festa => Visibilidade de atributos e Métodos (Privat, Public)</p>
-<p>Pesspa => Get & Set</p>
+<p>Pessoa => Get & Set</p>
 
-Aula => 5
+Aula => 8
