@@ -6,5 +6,6 @@ public class App {
         pessoa.alterarNome("Bob Esponja");
 
         System.out.println(pessoa.pegarNome());
+        //
     }
 }
