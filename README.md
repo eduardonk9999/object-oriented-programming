@@ -18,5 +18,6 @@
 <p>Moves => Criacao de Pacotes</p>
 <p>Festa => Visibilidade de atributos e Métodos (Privat, Public)</p>
 <p>Pessoa => Get & Set</p>
+<p>Pessoa => Construtor</p>
 
 Aula => 8
